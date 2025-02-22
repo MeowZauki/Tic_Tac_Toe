@@ -2,6 +2,7 @@
 #
 
 🎮 بازی Tic Tac Toe با Python و Pygame
+
 این پروژه یک بازی دوز (Tic Tac Toe) است که با استفاده از زبان پایتون (Python) و کتابخانه‌ی Pygame ساخته شده است. بازی دارای رابط گرافیکی بوده و بازیکنان می‌توانند با کلیک بر روی خانه‌های جدول، بازی کنند.
 
 🚀 ویژگی‌ها  
@@ -32,15 +33,21 @@ python tic_tac_toe.py
 📝 English
 #
 ##🎮 Tic Tac Toe Game with Python & Pygame
+
 -This project is a Tic Tac Toe game built using Python and the Pygame library. It provides a graphical interface where players can click on the grid to play.
 
 ##🚀 Features
+
 -✅ Simple and user-friendly GUI
+
 -✅ Alternating turns between players
+
 -✅ Displays the winner in a graphical message
+
 -✅ Restarts the game after winning
 
 ##🔧 Requirements
+
 -Before running the game, install Python and the following dependencies:
 ```sh
 pip install pygame
