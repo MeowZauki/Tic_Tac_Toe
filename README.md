@@ -54,6 +54,7 @@ python tic_tac_toe.py
 pip install pygame
 ```
 **▶️ How to Run**
+
 -After downloading or cloning the repository, run the main file:
 ```sh
 python tic_tac_toe.py
