@@ -10,11 +10,11 @@
 
 🔧 پیش‌نیازها
 برای اجرای این بازی، باید ابتدا Python و کتابخانه‌های زیر را نصب کنید:
-
+'''sh
 pip install pygame
 ▶️ نحوه اجرا
 پس از دانلود یا کلون کردن مخزن، فایل اصلی را اجرا کنید:
-
+'''sh
 python tic_tac_toe.py
 
 
@@ -31,9 +31,10 @@ This project is a Tic Tac Toe game built using Python and the Pygame library. It
 
 🔧 Requirements
 Before running the game, install Python and the following dependencies:
-
+'''sh
 pip install pygame
+
 ▶️ How to Run
 After downloading or cloning the repository, run the main file:
-
+'''sh
 python tic_tac_toe.py
