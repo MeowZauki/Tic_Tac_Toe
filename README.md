@@ -28,6 +28,7 @@ pip install pygame
 ```sh
 python tic_tac_toe.py
 ```
+<u>تمامی این پروژه با Chat-GPT زده شده</u>
 
 -------------------------------------------------------------------------------
 **📝 English**
@@ -57,3 +58,4 @@ pip install pygame
 ```sh
 python tic_tac_toe.py
 ```
+<u>This entire project was built with Chat-GPT</u>
